@@ -1,0 +1,9 @@
+{
+    "name": "Dissapointed Study Helper",
+    "description": "This extension will help you stay off youtube",
+    "version": "0.1.0",
+    "manifest_version": [{
+        "matches": ["https://www.youtube.com/*"],
+        "css": ["styles.css"]
+    }]
+}
